@@ -1,0 +1,55 @@
+
+div.monthly {
+    width: 350px;
+    height: 200px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}
+
+div.annual {
+    width: 400px;
+    height: 500px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 200px;
+    left: 540px;
+}
+
+div.lifetime {
+    width: 400px;
+    height: 500px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 200px;
+    left: 890px;
+}
+
+h6 {
+	font-size: 1em;
+}
+
+
+footer {
+    width: 100%;
+    height: 80px;
+    background: #172035;
+    position: absolute;
+    top: 600px!important;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
+
+
+
+ 

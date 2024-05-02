@@ -1,0 +1,173 @@
+section#content {
+    color:white;
+    position: absolute;
+    top:250px;
+    left:450px;
+    
+   
+}
+img#slide{
+    width: 100%;
+    height:auto ;
+}
+div.displayinline{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+
+    
+}
+div.course {
+    width: 350px;
+    height: 200px;
+    background: white;
+    border: 1px solid transparent;
+    padding-left: 40px;
+   
+}
+
+div.course2 {
+    width: 350px;
+    height: 200px;
+    background: white;
+    border: 1px solid transparent;
+    padding-left: 40px;
+
+   
+}
+
+div.course3 {
+    width: 350px;
+    height: 200px;
+    background: white;
+    border: 1px solid transparent;
+    padding-left: 40px;
+    padding-right: 40px;
+    }
+
+h6 {
+	font-size: 1em;
+}
+section#about {
+    width: 100vw;
+    height: 509px;
+    background: #252525;
+    position: absolute;
+    top: 1600px;
+    left: 0;
+    overflow: hidden;
+}
+
+ div.about {
+	color: white;
+	text-align: center;
+}
+
+div.students {
+    width: 230px;
+    height: 170px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    margin-left: 10%;
+    font-size: 1.5em;
+}
+
+div.reviews {
+    width: 230px;
+    height: 170px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    margin-left: 30%;
+    font-size: 1.5em;
+} 
+
+div.courses {
+    width: 230px;
+    height: 170px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    margin-left: 50%;
+    font-size: 1.5em;
+}
+
+ div.content {
+    width: 230px;
+    height: 170px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    margin-left: 70%;
+    font-size: 1.5em;
+} 
+div.learnnoww{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+div.learntechnow {
+    width: 350px;
+    height: 400px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 2350px;
+    left: 70px;
+}
+
+div.learntechpodcast {
+    width: 350px;
+    height: 400px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 2350px;
+    left: 500px;
+}
+
+div.learntechblog {
+    background-color: aqua;
+    width: 350px;
+    height: 400px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 2350px;
+    left: 930px;
+    overflow: auto;
+}
+
+.h1lt {
+
+    position: absolute;
+    top: 2150px;
+   margin-left: 40%;
+    font-size: 2.5em;
+
+}
+
+footer {
+    width: 100%;
+    height: 80px;
+    background: #172035;
+    position: absolute;
+    top: 2800px;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+     margin-top: 35px; 
+   
+} 

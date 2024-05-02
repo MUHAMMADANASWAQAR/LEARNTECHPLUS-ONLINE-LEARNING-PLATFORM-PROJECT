@@ -1,0 +1,59 @@
+
+#computer {
+    position: absolute;
+    top: 170px;
+    left: 200px;
+}
+
+.text {
+    position: absolute;
+    top: 160px;
+    left: 510px;
+}
+
+#computer2 {
+    position: absolute;
+    top: 420px;
+    left: 200px;
+}
+
+.text2 {
+    position: absolute;
+    top: 410px;
+    left: 510px;
+}
+
+#computer3 {
+    position: absolute;
+    top: 670px;
+    left: 200px;
+}
+
+.text3 {
+    position: absolute;
+    top: 660px;
+    left: 510px;
+}
+
+footer#techsupport {
+    width: 100vw;
+    height: 80px;
+    background: #172035;
+    position: absolute;
+    top: 920px;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
+p,h1{
+    font-size: 1.5em;
+}
+
+
+
+

@@ -1,0 +1,67 @@
+body {
+    font-family: roboto;
+}
+
+header {
+	width: 100vw;
+	height: 80px;
+	background: #172035;
+    overflow: hidden;
+}
+
+img#logo { 
+    margin-left: 70px;
+    margin-right: 100px;
+    position: absolute;
+    margin-top: 4px;
+    top: 17px;
+    left: 0;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+a {
+	color: white;
+	text-decoration: none;
+	font-weight: 2em;
+	font-family: 'roboto';
+	margin-right: 1px;
+    padding: 30px;
+}
+
+a:hover {
+    color: white;
+    background: #09568d;  
+    padding: 30px;
+}
+/* a:link {
+    color: rgb(105, 102, 102);
+    background: rgb(84, 84, 85);  
+    padding: 30px;
+} */
+/* a:visited {
+    color: rgb(105, 102, 102);
+    background: rgb(84, 84, 85);  
+    padding: 30px;
+} */
+/* a:active {
+    color: rgb(210, 29, 29);
+    background: rgb(12, 175, 12);  
+    padding: 30px;
+} */
+
+button {
+    width: 40%;
+    height: 50px;
+    background: #172035;
+    color: white;
+    font-size: 1.5em;
+    border:none;
+}
+
+button:hover {
+    background: #09568d;
+}
